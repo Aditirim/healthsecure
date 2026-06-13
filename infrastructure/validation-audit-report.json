@@ -1,0 +1,9 @@
+{
+  "totalPatients": 53,
+  "totalVisits": 151,
+  "totalVitals": 300,
+  "validRecords": 504,
+  "quarantinedRecords": 17,
+  "falsePositivesDetected": 0,
+  "falsePositivesRecovered": 0
+}
