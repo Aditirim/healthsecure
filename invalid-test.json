@@ -1,0 +1,15 @@
+{
+  "quarantinedAt": "2026-05-31T15:10:47.958Z",
+  "originalSource": {
+    "bucket": "healthsecure-raw-data",
+    "key": "raw-patient-data/invalid-test.json"
+  },
+  "errors": [
+    "Rule Violation: Patient ID is required and cannot be blank.",
+    "Rule Violation: Date of Birth is required and cannot be blank.",
+    "Rule Violation: Gender is required and cannot be blank."
+  ],
+  "payload": {
+    "name": "Broken Patient"
+  }
+}
